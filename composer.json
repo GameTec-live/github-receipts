@@ -1,5 +1,6 @@
 {
     "require": {
-        "mike42/escpos-php": "^3.0"
+        "mike42/escpos-php": "^3.0",
+        "chillerlan/php-qrcode": "^4.3"
     }
 }
